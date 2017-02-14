@@ -3,3 +3,7 @@
     background:linear-gradient(to left, red, blue, purple);
 }
 
+.clicked{
+    border:dashed blue 10px;
+}
+    
