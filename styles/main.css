@@ -1,9 +1,10 @@
-.marq {
-    color:white;
-    background:linear-gradient(to left, red, blue, purple);
+.J-hole {
+    float:left;
+    width:400px;
+    height:350px;
+    border:2px dashed blue;
 }
-
-.clicked{
-    border:dashed blue 10px;
+figcaption{
+    display:inline;
 }
     
