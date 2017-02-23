@@ -3,8 +3,25 @@
     width:400px;
     height:350px;
     border:2px dashed blue;
+    z-index:1;
 }
-figcaption{
-    display:inline;
+.mevid {
+    width:"500px";
+    height:"500px";
+}
+.ghill {
+    border:2px dashed blue;
+    border-left:2px dashed red !important;
+    float:left;
+    margin-left: 10px;
+}
+img {
+    border:6px green;
+    border-style:ridge;
+    float:left;
+    margin-bottom: 5px;
+    margin-right:5px;
+    width:500px;
+    height:500px;
 }
     
